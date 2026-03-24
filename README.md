@@ -10,7 +10,7 @@ The system uses Natural Language Processing (NLP) techniques along with a Logist
 ## 🌐 Live Application  
 
 🔗 Try the dashboard here:  
-https://futureml02-inwe2px4s6radbzkv3qx9s.streamlit.app/
+https://futureml02-qzeodnmhocgcqte9nnwall.streamlit.app/
 
 ---
 
@@ -247,7 +247,7 @@ Possible improvements for the system:
 
 ## 👨‍💻 Author  
 
-### Deepak Chakrasali  
+### CHANDAN H N  
 
 Machine Learning & AI Enthusiast  
 
