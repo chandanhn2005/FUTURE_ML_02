@@ -10,7 +10,7 @@ The system uses Natural Language Processing (NLP) techniques along with a Logist
 ## 🌐 Live Application  
 
 🔗 Try the dashboard here:  
-https://futureml02-qzeodnmhocgcqte9nnwall.streamlit.app/
+https://futureml02-jeswpldg2v3vncto53fvgx.streamlit.app/
 
 ---
 
